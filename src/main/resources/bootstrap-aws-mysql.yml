@@ -1,4 +1,0 @@
-spring:
-  cloud:
-    config:
-      uri: http://35.163.110.230:9000    
