@@ -6,4 +6,4 @@ spring:
       mysql
   cloud:
     config:
-      uri: http://34.215.211.72:9000
+      uri: http://54.186.43.238:9000
