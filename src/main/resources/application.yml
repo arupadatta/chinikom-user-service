@@ -8,14 +8,14 @@ spring:
       mysql
   cloud:
     config:
-      uri: http://http://34.212.223.121:9000
+      uri: http://34.212.223.121:9000
 server:
   port: 9003
 
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://http://34.212.223.121:8761/eureka/
+      defaultZone: http://34.212.223.121:8761/eureka/
     fetchRegistry: true
       
 spring.jmx:
